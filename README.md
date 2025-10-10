@@ -1,4 +1,4 @@
-# giovannibianco
+# Giovanni Bianco
 With a background in competitive mathematics, experience across three continents, and a strong foundation spanning multiple disciplines (statistics, mathematics, computer science, microeconomics and management) I bring a unique, interdisciplinary approach to problem-solving. 
 
 I am on track to graduate with honors from the BSc in Economics, Management, and Computer Science from Bocconi University, completing 3 years in 2 after a course change.
