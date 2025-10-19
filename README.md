@@ -4,7 +4,7 @@
 
 🎓 I graduated with full marks and honors (110/110 cum laude) from the BSc in Economics, Management, and Computer Science at Bocconi University, completing three years in two after a course change.
 
-🌏 During my exchange at the University of Technology Sydney, I deepened my understanding of mathematics and artificial intelligence, taking graduate-level courses that shaped my research perspective.
+🌏 During my exchange at the University of Technology Sydney, I deepened my understanding of mathematics and artificial intelligence by taking graduate-level courses. My internship as a Research Intern at the Australian Artificial Intelligence Institute was also a crucial experience that allowed me to take my first steps into the world of research.
 
 🤖 As an AI/ML Engineer Intern at Accenture, I worked on building and deploying AI agents to automate complex workflows — blending machine learning, optimization, and systems design to create tangible business impact.
 
